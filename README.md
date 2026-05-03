@@ -1,3 +1,8 @@
+PROYECTO FINAL        
+LOGICA DE SISTEMAS
+GENERADOR DE TABLAS DE VERDAD
+--CODIGO--
+
 # Tablas-de-verdad
 Proyecto Final Generador de Tablas de verdad
 import customtkinter as ctk
