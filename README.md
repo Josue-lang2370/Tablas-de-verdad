@@ -3,7 +3,7 @@ from tkinter import messagebox
 import itertools
 import re
 
-# --- SOPORTE DE RESOLUCIÓN ---
+# --- PROYECTO FINAL LOGICA DE SISTEMAS ---
 try:
     from ctypes import windll
     windll.shcore.SetProcessDpiAwareness(1)
